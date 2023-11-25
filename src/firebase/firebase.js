@@ -1,14 +1,12 @@
-import firebase from 'firebase';
+import firebase from "firebase";
 
 const firebaseConfig = {
-	apiKey: "AIzaSyCm2ToFCR3BZQkQRbaD5ugnOdB31b2nKsQ",
-	authDomain: "time-table-5a350.firebaseapp.com",
-	databaseURL: "https://time-table-5a350-default-rtdb.firebaseio.com",
-	projectId: "time-table-5a350",
-	storageBucket: "time-table-5a350.appspot.com",
-	messagingSenderId: "153362038507",
-	appId: "1:153362038507:web:9dab03cbffbee007cf88ae",
-	measurementId: "G-QJSL8TSLE0"
+  apiKey: "AIzaSyDnYFruPNccK_hfCmKQA8TcyMj8vxgXNRY",
+  authDomain: "timetable-1168e.firebaseapp.com",
+  projectId: "timetable-1168e",
+  storageBucket: "timetable-1168e.appspot.com",
+  messagingSenderId: "1003445784721",
+  appId: "1:1003445784721:web:d3c1b6b1fd121125da2f30",
 };
 
 firebase.initializeApp(firebaseConfig);
